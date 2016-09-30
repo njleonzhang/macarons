@@ -1,0 +1,6 @@
+{
+  "name": "macarons",
+  "main": [
+    "./macarons.js"
+  ]
+}
