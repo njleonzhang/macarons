@@ -1,6 +1,7 @@
 # macarons
 echart macarons theme for bower install
 
+sample:
 ```
 {
   "name": "bsySale",
@@ -12,7 +13,7 @@ echart macarons theme for bower install
     "ngCordova": "0.1.27-alpha",
     "echarts": "3.2.3",
     "ng-echarts": "https://github.com/liekkas/ng-echarts.git#3.0.0",
-    "macarons": ""
+    "macarons": "https://github.com/njleonzhang/macarons.git#1.0.1"
   },
   "overrides": {
     "ionic": {
